@@ -1,5 +1,5 @@
-# data-analyst-coderhouse
- here we'll work with some datasets for the course
+# Data Analyst (coderhouse)
+ Here we'll work with a dataset for the course
  
  ### links to the Datasets are inside de .docx documents.
  - description
