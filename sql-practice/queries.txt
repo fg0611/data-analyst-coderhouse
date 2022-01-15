@@ -1,0 +1,8 @@
+--SELECT [TOP X] attributes & values
+--FROM first_table
+--INNER / LEFT / RIGHT JOIN second_table ON condition(s)
+--... other joins if needed
+--WHERE condition(s)
+--GROUP BY set of attributes
+--HAVING condition(s) for group by
+--ORDER BY list attributes and order;
