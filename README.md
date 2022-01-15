@@ -2,6 +2,10 @@
 
  Here we'll work with a dataset for the DA course.
  
+ ### Techs and Tools used
+ - Excel
+ - SQL Server
+ - PowerBI
  
  ### Links to the Datasets are inside de .docx documents.
  - Description
