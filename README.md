@@ -1,10 +1,12 @@
 # Data Analyst (coderhouse)
- Here we'll work with a dataset for the course
+
+ Here we'll work with a dataset for the DA course.
  
- ### links to the Datasets are inside de .docx documents.
- - description
- - data files
- - topic (Land Use For Agriculture Worldwide and general analysis of it's impacts in human lives)
+ 
+ ### Links to the Datasets are inside de .docx documents.
+ - Description
+ - Data files
+ - Topic (Land Use For Agriculture Worldwide and general analysis of it's impacts in human lives)
 
 ### Added the Project's Dashboard MockUp in Powerpoint and the Database ER Diagram
 - MockUp ppt
